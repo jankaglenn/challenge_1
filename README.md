@@ -25,12 +25,13 @@ Based on the results regards the donations, we could have added addition measure
 
 
 •	Use your data to determine whether the mean or the median better summarizes the data.
-Median is able to provide more beneficial data. Average without outliners doesn’t fulfill satisfaction of this campaign. The results of successful campaigns are Median (201) and Mean (851). It is clearly tremendous. We can easily spot it in failed campaigns also with Median (115) and Mean (586). 
+Median is able to provide more beneficial data. Average without outliners doesn’t fulfill satisfaction for the results being measured within this campaign. The results of successful campaigns are Median (201) and Mean (851). It is clearly a tremendous difference. We can easily spot it in failed campaigns also with Median (115) and Mean (586). 
 As I have stated previously, outliners are necessary here, with Minimum 16 and Maximum over 7000 in successful and Minimum zero with Maximum 6080 in failed ones. 
 
 
 •	Use your data to determine if there is more variability with successful or unsuccessful campaigns. Does this make sense? Why or why not?
 Successful campaign wins over failed by 35%. There is a significant variability in successful outcome based on results for parent-categories “Audio”, and “World Music” as both of the categories are 100% succesfull.
+But if we are comparing only successful to failed capmaigns, whatever we are comparing the one, the other will have exact opposite results. If 
 
 
 
